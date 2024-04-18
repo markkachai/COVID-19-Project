@@ -239,22 +239,15 @@ Two separate dashboards were created:
 ---
 The analysis results are summarized as follows:
 1. 70.6% of the world has received at least one dose of a COVID-19 vaccination.
-2. On average, demand slightly decreases during the weekend for both times of day.
-3. Our multiple linear regression model explains 89.56% of the variance in our data.
-4. .
-
-### Proposed Solution and Business Model
----
-Based on the analysis, we recommend the following actions:
-- Increase the initial allocation of bikes to 3,427.
-- Provide cashback or discount opportunities to riders/people close to stations to displace extra bikes to the nearest high-demand stations.
-- Allow commuters/students to earn extra money/reward for displacing bikes from one station to another suggested station (Ex. Earn a reward per 5 bikes displaced).
-- A designated app for Citi Bike could manage and display all the displacement suggestions, discounts, cashback, and student account information.
+2. 64.9% of the world has received both doses of a COVID-19 vaccination.
+3. Europe, North America, Asia, and South America have experienced the most COVID-19-related deaths.
+4. The number of people vaccinated tends to increase with GDP per capita.
 
 ### Limitations
 ---
-All null values were removed from the dataset, which only took out a small percentage of the data. This was to ensure null values were not being used in the analysis and also so the multiple linear regression model would work.
+Some countries showed an over 100% vaccination rate, which could be due to errors in the source data. These countries were removed from visualizations in which vaccination rate was ranked from highest to lowest.
+That said, the stats covered in the dashboards rely on the accuracy of the source data.
 
 ### References
 ---
-1. [Stack Overflow](https://stackoverflow.com/)
+1. [COVID-19 Dataset (from ourworldindata.org)]([https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv])
