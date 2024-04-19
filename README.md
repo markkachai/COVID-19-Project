@@ -15,13 +15,14 @@
 
 ### Project Overview
 ---
-The objective of this final group project was to develop a tool to find the number of bikes to stock in a selection of stations at the beginning of the day to maximize the number of daily bike trips. Applying the 4-step analytics process to solve this problem, our group constructed a data-driven narrative prepared in a pitch presentation for the Citi Bike executives. In RStudio, descriptive analyses helped to identify demand patterns, and predictive analyses were done through the use of a multiple linear regression model created to forecast daytime and evening demand for five stations. An optimization model created in Excel was used to find the optimal initial allocation of bikes as well as the number of trips.
+The objective of this project was to visualize key COVID-19 findings in the form of dashboards in Tableau. 
+develop a tool to find the number of bikes to stock in a selection of stations at the beginning of the day to maximize the number of daily bike trips. Applying the 4-step analytics process to solve this problem, our group constructed a data-driven narrative prepared in a pitch presentation for the Citi Bike executives. In RStudio, descriptive analyses helped to identify demand patterns, and predictive analyses were done through the use of a multiple linear regression model created to forecast daytime and evening demand for five stations. An optimization model created in Excel was used to find the optimal initial allocation of bikes as well as the number of trips.
 
 ### Data Sources
 ---
-Citi Bike Demand Data: The primary dataset used for this analysis is the "citibikeDemand.csv" file, which contains a random sample of trips taken from June 1, 2017, to May 31, 2018 (31,452 out of 15.7 million rides). The information has been supplemented with demographic, economic, and weather information pulled from a variety of sources. 
+COVID-19 Data: The primary dataset used for this analysis is the "owid-covid-data.csv" file, which contains a collection of COVID-19 data maintained by Our World in Data. It is updated daily throughout the duration of the COVID-19 pandemic. The CSV and XLSX files from the source follow a format of 1 row per location and date. The variables represent all of Our World in Data's main data related to confirmed cases, deaths, hospitalizations, and testing, as well as other variables of potential interest. When downloaded for this project, the dataset contained data ranging from 2020-01-01 to 2024-04-11.
 
-[COVID-19 Data](https://github.com/markkachai/Citi-Bike-Case-Study/blob/77f82f7f3303236dab7e363c86df7467ab18d046/CitiBike%20Data%20Description.docx)
+[COVID-19 Data](https://github.com/owid/covid-19-data/blob/master/public/data/README.md)
 
 ### Tools
 ---
