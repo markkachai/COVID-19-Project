@@ -15,8 +15,7 @@
 
 ### Project Overview
 ---
-The objective of this project was to visualize key COVID-19 findings in the form of dashboards in Tableau. 
-develop a tool to find the number of bikes to stock in a selection of stations at the beginning of the day to maximize the number of daily bike trips. Applying the 4-step analytics process to solve this problem, our group constructed a data-driven narrative prepared in a pitch presentation for the Citi Bike executives. In RStudio, descriptive analyses helped to identify demand patterns, and predictive analyses were done through the use of a multiple linear regression model created to forecast daytime and evening demand for five stations. An optimization model created in Excel was used to find the optimal initial allocation of bikes as well as the number of trips.
+The objective of this project was to visualize key COVID-19 findings in the form of dashboards in Tableau. The data used was a collection of COVID-19 data maintained by Our World in Data. Data cleaning and preparation were done in Excel. This file was then uploaded to MySQL, where the dataset was analyzed to find key COVID-19 metrics. The tables created in MySQL were uploaded to Excel, and then into Tableau. Two dashboards were created, which covered many key data points of the COVID-19 pandemic.
 
 ### Data Sources
 ---
