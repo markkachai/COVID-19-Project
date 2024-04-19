@@ -233,7 +233,9 @@ EDA involved exploring the cleaned COVID-19 data to answer any key questions, su
 Data Visualizations were created in the form of dashboards in Tableau.
 Two separate dashboards were created:
 - The 'COVID-19 Global Vaccine Tracker' dashboard was created using the cleaned Excel file data. This dashboard mainly covers vaccinations.
+  - [COVID-19 Global Vaccine Tracker](https://public.tableau.com/app/profile/mark.kachai/viz/COVID-19GlobalVaccineTracker_17134252814100/CovidVaccineTracker)
 - The 'COVID-19 Dashboard Project' dashboard was created using the tables queried from SQL. This dashboard mainly covers cases and deaths.
+  - [COVID-19 Dashboard Project](https://public.tableau.com/app/profile/mark.kachai/viz/CovidDashboardProject_17133396633600/Dashboard2)
 
 ### Results and Findings
 ---
