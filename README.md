@@ -251,4 +251,4 @@ That said, the stats covered in the dashboards rely on the accuracy of the sourc
 
 ### References
 ---
-1. [COVID-19 Dataset (from ourworldindata.org)]([https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv])
+1. [COVID-19 Dataset (from ourworldindata.org)](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv)
